@@ -1,2 +1,2 @@
 # site
-Site de testes
+Site de teste
